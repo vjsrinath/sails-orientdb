@@ -1,6 +1,7 @@
 ![image_squidhome@2x.png](http://i.imgur.com/RIvu9.png)
 
 # sails-orientdb
+dev:![](https://travis-ci.org/vjsrinath/sails-orientdb.svg?branch=dev), master: ![](https://travis-ci.org/vjsrinath/sails-orientdb.svg?branch=master)
 
 Provides easy access to `orientdb` from Sails.js & Waterline.
 
