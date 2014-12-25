@@ -1,13 +1,11 @@
 ![image_squidhome@2x.png](http://i.imgur.com/RIvu9.png)
 
-# sails-orientdb
+# sails-orientdb ![](https://travis-ci.org/vjsrinath/sails-orientdb.svg?branch=dev)
 
 Provides easy access to `orientdb` from Sails.js & Waterline.
 
 ### The adapter in early development stages, pull requests are welcome
 *The adapter automatically creates edges between model instances with the help of associations information available from Collection instance*
-
-![](https://travis-ci.org/vjsrinath/sails-orientdb.svg?branch=dev)
 
 This module is a Waterline/Sails adapter, an early implementation of a rapidly-developing, tool-agnostic data standard.  Its goal is to provide a set of declarative interfaces, conventions, and best-practices for integrating with all sorts of data sources.  Not just databases-- external APIs, proprietary web services, or even hardware.
 
