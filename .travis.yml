@@ -5,3 +5,5 @@ MQJLS+qJZqdpA239Zqg9uwAwdnAhBqWYfS95/UcnG63sMwnOIFsdehJNzuuNf6vf3QY2xCM7rvtuJKy7
 WtFbwuqZb1kB9jCnHZ0LtI="
   email: vjsrinath@live.com
   provider: npm
+  on:
+    branch: master
