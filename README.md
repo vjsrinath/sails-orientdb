@@ -1,4 +1,4 @@
-![image_squidhome@2x.png](http://i.imgur.com/RIvu9.png)
+![image_squidhome@2x.png](http://vjsrinath.com/content/images/2014/12/sailsjs.png)
 
 # sails-orientdb
 
